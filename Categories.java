@@ -61,6 +61,7 @@ public class Categories extends javax.swing.JFrame {
         setPreferredSize(new java.awt.Dimension(1280, 750));
         getContentPane().setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
+        jPanel1.setBackground(new java.awt.Color(245, 245, 245));
         jPanel1.setMinimumSize(new java.awt.Dimension(1200, 750));
         jPanel1.setPreferredSize(new java.awt.Dimension(1200, 750));
         jPanel1.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());

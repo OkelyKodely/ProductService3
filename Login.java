@@ -109,7 +109,7 @@ public class Login extends javax.swing.JFrame {
                 con.close();
                 java.awt.EventQueue.invokeLater(new Runnable() {
                     public void run() {
-                        new Categories().setVisible(true);
+                        new ProductService("all", null).setVisible(true);
                     }
                 });
                 this.dispose();
